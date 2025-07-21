@@ -13,7 +13,7 @@ body{
     text-align: center;
     font-size: 20px;
 }
-
+/* body is used to style the main content area */
 nav{
 height: 600px;
     width: 200px;
@@ -21,18 +21,19 @@ height: 600px;
     padding: 5px;
     line-height: 30px;
 }
-
+/* nav is used to style the navigation area */
 footer{
     text-align: center;
     margin-right: 200px;
 }
-
+/* footer is used to style the footer area */
 .CodeMeme{
     margin-right: 200px;
     width: 100px;
     height: 100px;
 }
-
+/* CodeMeme is used to style the CodeMeme imageelements */
 h1{
     text-align: center;
 }
+/* h1 is used to style the main heading */
